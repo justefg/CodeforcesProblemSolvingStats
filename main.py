@@ -77,7 +77,8 @@ for rated_contest in rated_contests:
                 if tag in popular_tags:
                     probs_failed[tag] += 1
 
-plotify(popular_tags_output, [probs_solved[key] for key in popular_tags], [probs_failed[key] for key in popular_tags], handle)
+plotify(popular_tags_output, [probs_solved[key] for key in popular_tags], \
+                [probs_failed[key] for key in popular_tags], handle)
 
 for key in popular_tags:
     print key + ': ' + str(probs_solved[key]) + ' ' + str(probs_failed[key])
