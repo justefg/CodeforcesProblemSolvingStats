@@ -6,6 +6,7 @@ Only CF contest that affect your rating are counted.
 
 <h2> Instructions </h2>
 
+Change handle variable to your CF handle.
 If you wanna see a nice chart drawn with [matplotlib](http://www.matplotlib.org) you should install it.
 
 Here is how it's gonna look like:
