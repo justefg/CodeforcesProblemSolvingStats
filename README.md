@@ -2,7 +2,7 @@ CodeforcesProblemSolvingStats
 =============================
 
 See number of solved problems by each tag (data structures, dynamic programming, binary search and etc).
-Only CF contest that affect your rating are counted.
+Only CF contests that affect your rating are counted.
 
 <h2> Instructions </h2>
 
