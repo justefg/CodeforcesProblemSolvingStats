@@ -6,7 +6,7 @@ Only CF contests that affect your rating are counted.
 
 <h2> Instructions </h2>
 
-Change handle variable to your CF handle and run python main.py.
+Change the handle variable to your CF handle and run python main.py.
 If you wanna see a nice chart drawn with [matplotlib](http://www.matplotlib.org) you need to install it.
 
 Here is how it's gonna look like:
